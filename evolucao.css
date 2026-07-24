@@ -1,0 +1,51 @@
+
+/* source: sf-v15-progress-final-fix */
+
+/* V15.01 — Ajuste exclusivo do menu Evolução */
+#progress.page{
+  padding-left:6px!important;
+  padding-right:6px!important;
+}
+#progress.page > .card{
+  width:100%!important;
+  max-width:none!important;
+  margin:10px 0!important;
+  box-sizing:border-box!important;
+  border:1.5px solid #d8a321!important;
+  border-radius:14px!important;
+  background:transparent!important;
+  box-shadow:0 0 12px rgba(216,163,33,.12), inset 0 0 0 1px rgba(255,210,77,.05)!important;
+}
+#progress.page input,
+#progress.page select,
+#progress.page textarea,
+#progress.page .canvas,
+#progress.page .photos,
+#progress.page #measureCompare{
+  background:transparent!important;
+}
+#progress.page input,
+#progress.page select,
+#progress.page textarea,
+#progress.page .canvas{
+  border-color:#b98214!important;
+}
+#progress.page #resetWeight{
+  background:transparent!important;
+  color:#e7b84d!important;
+  border:1.5px solid #d8a321!important;
+  box-shadow:inset 0 0 0 1px rgba(255,214,82,.08),0 0 10px rgba(216,163,33,.10)!important;
+}
+#progress.page #saveWeight,
+#progress.page #saveMeasure,
+#progress.page #savePhoto{
+  background:linear-gradient(135deg,#b10812 0%,#76070d 52%,#a50b13 100%)!important;
+  color:#e7b84d!important;
+  border:1.5px solid #d8a321!important;
+  box-shadow:inset 0 0 0 1px rgba(255,213,76,.16),0 0 12px rgba(170,5,16,.28)!important;
+}
+@media(max-width:720px){
+  #progress.page{padding-left:4px!important;padding-right:4px!important}
+  #progress.page > .card{margin:8px 0!important;padding-left:10px!important;padding-right:10px!important}
+}
+

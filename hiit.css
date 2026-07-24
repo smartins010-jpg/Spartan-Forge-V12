@@ -1,0 +1,46 @@
+
+/* source: sf-hiit-timer-style */
+
+.sf-hiit-timer{margin-top:12px;padding:18px;border:1px solid rgba(255,216,74,.55);border-radius:16px;background:linear-gradient(145deg,rgba(6,7,9,.97),rgba(35,8,8,.94));text-align:center;box-shadow:0 0 24px rgba(190,20,20,.18)}
+.sf-timer-phase{font-weight:900;letter-spacing:2px;color:#ffd84a;font-size:15px}.sf-timer-count{font-size:68px;line-height:1;font-weight:1000;margin:10px 0;color:#fff;text-shadow:0 0 18px rgba(255,45,45,.65)}
+.sf-timer-meta{display:flex;justify-content:space-between;gap:10px;font-size:13px;color:#ddd}.sf-timer-name{margin:12px 0;font-size:18px;font-weight:850;color:#fff}.sf-timer-actions{display:flex;gap:8px;justify-content:center}.sf-generator-actions{flex-wrap:wrap}
+.sf-gen-lock-note{margin-top:9px;padding:9px;border-radius:10px;background:rgba(150,20,20,.18);border:1px solid rgba(255,80,80,.25);font-size:12px;color:#f4d7d7}
+
+
+/* source: sf-hiit-timer-style */
+.sf-hiit-timer{margin-top:12px;padding:18px;border:1px solid rgba(255,216,74,.55);border-radius:16px;background:linear-gradient(145deg,rgba(6,7,9,.97),rgba(35,8,8,.94));text-align:center}.sf-timer-phase{font-weight:900;letter-spacing:2px;color:#ffd84a}.sf-timer-count{font-size:68px;line-height:1;font-weight:1000;margin:10px 0;color:#fff;text-shadow:0 0 18px rgba(255,45,45,.65)}.sf-timer-meta{display:flex;justify-content:space-between;gap:10px;font-size:13px;color:#ddd}.sf-timer-name{margin:12px 0;font-size:18px;font-weight:850}.sf-timer-actions{display:flex;gap:8px;justify-content:center}.sf-generator-actions{flex-wrap:wrap}.sf-gen-lock-note{margin-top:9px;padding:9px;border-radius:10px;background:rgba(150,20,20,.18);border:1px solid rgba(255,80,80,.25);font-size:12px;color:#f4d7d7}
+
+/* V10.43 — Gerador separado e música compacta na musculação */
+.sf-muscle-bottom-actions{display:grid;grid-template-columns:minmax(0,1fr) 58px minmax(0,1fr);gap:8px;align-items:stretch}
+.sf-muscle-side-action{min-width:0!important;padding:10px 7px!important;font-size:11px!important;line-height:1.15!important}
+.sf-music-square{width:58px;height:50px;align-self:center;justify-self:center;border:1px solid rgba(205,35,35,.75);border-radius:11px;background:linear-gradient(145deg,#181818,#050505 62%,#241006);box-shadow:inset 0 1px 0 rgba(255,220,115,.13),0 5px 12px rgba(0,0,0,.48);display:flex;align-items:center;justify-content:center;padding:7px;cursor:pointer}
+.sf-music-square img{width:38px;height:38px;object-fit:contain;filter:drop-shadow(0 2px 2px rgba(0,0,0,.8)) drop-shadow(0 0 5px rgba(218,165,45,.28))}
+.sf-music-square:active{transform:translateY(1px) scale(.97);box-shadow:inset 0 1px 5px rgba(0,0,0,.8),0 0 10px rgba(218,165,45,.35)}
+@media(max-width:390px){.sf-muscle-bottom-actions{grid-template-columns:minmax(0,1fr) 52px minmax(0,1fr);gap:6px}.sf-music-square{width:52px;height:48px}.sf-muscle-side-action{font-size:10px!important;padding:9px 5px!important}}
+
+/* V10.45 — Gerador Spartan em destaque + música em todos os menus de treino */
+.sf-generator-launch{margin:0 0 12px;padding:2px;border-radius:17px;background:linear-gradient(135deg,#7a180f,#d5a545 48%,#4b0908);box-shadow:0 10px 22px rgba(0,0,0,.55),0 0 18px rgba(173,24,16,.20)}
+.sf-generator-launch button{width:100%;border:1px solid rgba(255,216,74,.42);border-radius:15px;background:linear-gradient(145deg,#151515,#050505 62%,#220b08);padding:15px 18px;color:#f6d36c;font-weight:1000;letter-spacing:1.2px;text-transform:uppercase;display:flex;align-items:center;justify-content:center;gap:10px;box-shadow:inset 0 1px 0 rgba(255,236,160,.13);cursor:pointer}
+.sf-generator-launch button:active{transform:scale(.985)}
+.sf-generator-launch .sf-launch-mark{font-size:22px;filter:drop-shadow(0 0 5px rgba(218,165,45,.42))}
+.sf-generator-launch small{display:block;color:#bfa66e;font-size:10px;letter-spacing:.6px;margin-top:2px;text-transform:none}
+.sf-workout-bottom-actions{display:grid;grid-template-columns:minmax(0,1fr) 58px minmax(0,1fr);gap:8px;align-items:stretch;margin-top:10px}
+.sf-workout-side-action{min-width:0!important;padding:10px 7px!important;font-size:11px!important;line-height:1.15!important}
+.sf-generator-actions .sf-workout-bottom-actions{width:100%}
+@media(max-width:390px){.sf-workout-bottom-actions{grid-template-columns:minmax(0,1fr) 52px minmax(0,1fr);gap:6px}.sf-workout-side-action{font-size:10px!important;padding:9px 5px!important}}
+
+/* V10.45 — faixa exclusiva Gerador Spartan */
+.sf-generator-launch.sf-generator-launch-art{margin:0 0 14px;padding:0;border-radius:18px;background:#080808;box-shadow:0 12px 26px rgba(0,0,0,.62),0 0 20px rgba(150,0,0,.28);overflow:hidden}
+.sf-generator-launch.sf-generator-launch-art button{display:block;width:100%;padding:0;border:0;border-radius:18px;background:#080808;overflow:hidden;cursor:pointer;box-shadow:none}
+.sf-generator-launch.sf-generator-launch-art img{display:block;width:100%;height:auto;aspect-ratio:888/330;object-fit:cover}
+.sf-generator-launch.sf-generator-launch-art button:active{transform:scale(.988);filter:brightness(1.12)}
+
+/* V10.45 FIX — apenas barra inferior do Gerador Spartan */
+#generator .sf-generator-actions{display:grid!important;grid-template-columns:1fr 1fr!important;gap:8px!important;width:100%!important}
+#generator .sf-generator-actions>#sfGenerateWorkout,
+#generator .sf-generator-actions>#sfStartHiit{width:100%!important;min-height:50px!important;margin:0!important;padding:12px 10px!important;border-radius:14px!important;font-size:12px!important;line-height:1.15!important}
+#generator .sf-workout-bottom-actions{grid-column:1/-1!important;display:grid!important;grid-template-columns:minmax(0,1fr) 58px minmax(0,1fr)!important;gap:8px!important;width:100%!important;margin-top:0!important;align-items:stretch!important}
+#generator .sf-workout-side-action{width:100%!important;min-height:50px!important;margin:0!important;padding:10px 7px!important;border-radius:14px!important;font-size:11px!important;line-height:1.15!important}
+#generator .sf-music-square{width:58px!important;height:50px!important;margin:0!important;align-self:stretch!important}
+@media(max-width:390px){#generator .sf-workout-bottom-actions{grid-template-columns:minmax(0,1fr) 52px minmax(0,1fr)!important;gap:6px!important}#generator .sf-music-square{width:52px!important;height:50px!important}}
+

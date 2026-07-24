@@ -1,0 +1,4 @@
+SPARTAN FORGE V1
+Base limpa do menu Gerador Spartan.
+O botão do menu principal foi preservado sem alterações.
+O conteúdo visual e funcional interno do Gerador foi removido para reconstrução de raiz.

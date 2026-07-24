@@ -1,0 +1,20 @@
+/* SPARTAN FORGE V1 — BASE LIMPA DO GERADOR SPARTAN
+   O visual anterior foi removido integralmente.
+   Este ficheiro contém apenas a base neutra necessária para reconstruir o menu. */
+#generator.sf-generator-page {
+  min-height: calc(100dvh - 190px);
+  margin: 0;
+  padding: 0;
+  background: #000;
+  border: 0;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+#generator .sf-generator-clean-base {
+  width: 100%;
+  min-height: calc(100dvh - 190px);
+  margin: 0;
+  padding: 0;
+  background: transparent;
+}

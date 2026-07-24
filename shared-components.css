@@ -1,0 +1,619 @@
+
+/* source: inline-style-1 */
+
+/* V8.25 — Perfil Spartan compacto premium */
+#profile .profile-premium-v825{
+  width:min(94%,760px)!important;
+  margin:12px auto!important;
+  padding:16px 14px!important;
+  border:1px solid rgba(177,119,26,.78)!important;
+  border-radius:18px!important;
+  background:linear-gradient(180deg,rgba(6,6,6,.95),rgba(2,2,2,.97))!important;
+  box-shadow:inset 0 0 0 1px rgba(255,205,92,.06),0 12px 28px rgba(0,0,0,.5)!important;
+}
+#profile .profile-premium-v825 h2{
+  display:flex!important;align-items:center!important;gap:10px!important;
+  margin:0 0 14px!important;font-size:clamp(22px,5vw,31px)!important;
+  color:#d4a43a!important;text-shadow:0 1px 0 #000,0 0 10px rgba(219,160,47,.15)!important;
+}
+#profile .profile-title-icon{width:36px!important;height:36px!important;flex:0 0 36px!important}
+#profile .profile-fields-v825{display:grid!important;gap:10px!important}
+#profile .profile-field-v825 label{margin:0 0 5px 4px!important;color:#d8aa43!important;font-size:15px!important;letter-spacing:.55px!important}
+#profile .profile-control-v825{
+  display:flex!important;align-items:center!important;gap:10px!important;
+  min-height:58px!important;padding:5px 11px!important;
+  border:1px solid #9b6718!important;border-radius:14px!important;
+  background:linear-gradient(180deg,#090909,#030303)!important;
+  box-shadow:inset 0 1px 0 rgba(255,213,105,.08),inset 0 -8px 16px rgba(0,0,0,.35)!important;
+}
+#profile .profile-control-v825>.sf-icon{width:42px!important;height:42px!important;flex:0 0 42px!important;filter:drop-shadow(0 2px 3px #000)!important}
+#profile .profile-control-v825 input{
+  width:100%!important;min-width:0!important;height:46px!important;margin:0!important;padding:0 6px!important;
+  border:0!important;background:transparent!important;box-shadow:none!important;
+  color:#f3f3f3!important;font-size:18px!important;font-weight:600!important;
+}
+#profile .profile-control-v825 input:focus{outline:none!important}
+#profile #saveProfile{
+  display:block!important;width:min(86%,560px)!important;min-height:52px!important;
+  margin:16px auto 0!important;padding:10px 18px!important;
+  border:1px solid #f0c552!important;border-radius:14px!important;
+  color:#15100a!important;background:linear-gradient(180deg,#d9a92f 0%,#b97a14 52%,#8e570b 100%)!important;
+  box-shadow:inset 0 1px 0 rgba(255,241,167,.65),0 4px 14px rgba(181,112,12,.28)!important;
+  font-size:16px!important;text-transform:uppercase!important;
+}
+#profile #saveProfile:active{transform:translateY(1px)!important}
+#profile .profile-weight-v825{padding-top:14px!important}
+#profile .profile-weight-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:10px!important;margin-top:4px!important}
+#profile .profile-weight-grid>div{
+  display:flex!important;align-items:center!important;gap:9px!important;min-height:78px!important;
+  padding:9px 10px!important;border:1px solid #815515!important;border-radius:13px!important;
+  background:linear-gradient(180deg,#080808,#020202)!important;
+}
+#profile .profile-weight-grid>div>.sf-icon{width:42px!important;height:42px!important;flex:0 0 42px!important}
+#profile .profile-weight-grid span:not(.sf-icon){font-size:11px!important;color:#d7d0c3!important}
+#profile .profile-weight-grid strong{font-size:18px!important;color:#d6a63a!important}
+#profile .profile-note{
+  display:flex!important;align-items:center!important;gap:10px!important;
+  margin:12px 0 0!important;padding:10px 12px!important;border:1px solid #704a13!important;border-radius:12px!important;
+  background:#050505!important;line-height:1.45!important
+}
+#profile .profile-note .sf-icon{width:34px!important;height:34px!important;flex:0 0 34px!important}
+@media(max-width:560px){
+  #profile .profile-premium-v825{width:94%!important;padding:14px 12px!important}
+  #profile .profile-control-v825{min-height:54px!important}
+  #profile .profile-control-v825>.sf-icon{width:38px!important;height:38px!important;flex-basis:38px!important}
+  #profile .profile-control-v825 input{font-size:17px!important;height:42px!important}
+  #profile #saveProfile{width:84%!important;min-height:50px!important;font-size:14px!important}
+  #profile .profile-weight-grid>div{min-height:72px!important;padding:8px!important}
+}
+
+
+/* source: inline-style-2 */
+
+/* V8.28 — AJUSTE FINAL DO BOTÃO GUARDAR PERFIL */
+#profile .profile-premium-v825{
+  width:min(92%,720px)!important;
+  padding:12px 12px 13px!important;
+  border-radius:17px!important;
+}
+#profile .profile-premium-v825 h2{
+  gap:8px!important;
+  margin:0 0 10px!important;
+  font-size:clamp(21px,4.7vw,29px)!important;
+}
+#profile .profile-title-icon{width:31px!important;height:31px!important;flex-basis:31px!important}
+#profile .profile-fields-v825{gap:7px!important}
+#profile .profile-field-v825 label{
+  margin:0 0 3px 4px!important;
+  font-size:13px!important;
+}
+#profile .profile-control-v825{
+  min-height:46px!important;
+  padding:3px 9px!important;
+  gap:8px!important;
+  border-radius:12px!important;
+  border-color:#8d611b!important;
+}
+#profile .profile-control-v825>.sf-icon{
+  position:relative!important;
+  width:31px!important;
+  height:31px!important;
+  flex:0 0 31px!important;
+  border-radius:9px!important;
+  background:linear-gradient(145deg,#fff2a8 0%,#e5b54e 24%,#8b5317 53%,#f2ca72 72%,#6d3b0e 100%)!important;
+  filter:drop-shadow(0 1px 0 rgba(255,245,194,.55)) drop-shadow(0 2px 3px #000)!important;
+}
+#profile .profile-control-v825 input{
+  height:36px!important;
+  font-size:16px!important;
+  padding:0 4px!important;
+}
+#profile #saveProfile{
+  width:min(78%,470px)!important;
+  min-height:40px!important;
+  margin:12px auto 0!important;
+  padding:5px 14px!important;
+  border-radius:12px!important;
+  border:1px solid #ffe36a!important;
+  background:linear-gradient(135deg,#fff06a 0%,#ffd700 48%,#c99100 100%)!important;
+  box-shadow:inset 0 1px 0 rgba(255,255,220,.8),0 4px 12px rgba(201,145,0,.32)!important;
+  font-size:14px!important;
+  letter-spacing:.05em!important;
+}
+#profile .profile-weight-v825{padding-top:12px!important}
+#profile .profile-weight-grid{gap:8px!important}
+#profile .profile-weight-grid>div{
+  min-height:66px!important;
+  padding:7px 8px!important;
+  border-radius:12px!important;
+}
+#profile .profile-weight-grid>div>.sf-icon{width:34px!important;height:34px!important;flex-basis:34px!important}
+#profile .profile-weight-grid strong{font-size:16px!important}
+#profile .profile-note{padding:8px 10px!important;margin-top:9px!important}
+#profile .profile-note .sf-icon{width:28px!important;height:28px!important;flex-basis:28px!important}
+@media(max-width:560px){
+  #profile .profile-premium-v825{width:92%!important;padding:11px 10px 12px!important}
+  #profile .profile-control-v825{min-height:44px!important}
+  #profile .profile-control-v825>.sf-icon{width:29px!important;height:29px!important;flex-basis:29px!important}
+  #profile .profile-control-v825 input{height:34px!important;font-size:15.5px!important}
+  #profile #saveProfile{width:76%!important;min-height:38px!important;padding:5px 13px!important;font-size:12.5px!important}
+  #profile .profile-weight-grid>div{min-height:62px!important}
+}
+
+
+/* source: all-menus-premium-v835 */
+
+/* V8.37 — uniformização visual premium dos restantes menus. Apenas CSS. */
+:root{
+  --sf-gold-1:#fff2a8;
+  --sf-gold-2:#e5b54e;
+  --sf-gold-3:#8b5317;
+  --sf-gold-4:#f2ca72;
+  --sf-panel:#07090b;
+  --sf-panel-2:#0d1014;
+  --sf-border:rgba(208,157,49,.58);
+}
+#training.page,#hiit.page,#cardio.page,#progress.page,#history.page{padding-top:10px!important}
+#training.page>.card,#hiit.page>.card,#cardio.page>.card,#progress.page>.card,#history.page>.card{
+  width:min(94%,700px)!important;margin:10px auto!important;padding:12px!important;
+  border:1px solid var(--sf-border)!important;border-radius:17px!important;
+  background:linear-gradient(145deg,rgba(11,14,17,.97),rgba(3,4,6,.96))!important;
+  box-shadow:inset 0 0 0 1px rgba(255,206,83,.04),0 8px 22px rgba(0,0,0,.45)!important;
+}
+#training h2,#hiit h2,#cardio h2,#progress h2,#history h2{
+  display:flex!important;align-items:center!important;gap:9px!important;margin:0 0 11px!important;
+  color:#f3c85d!important;font-size:clamp(21px,4.7vw,29px)!important;letter-spacing:.02em!important;
+}
+#training h2::before,#hiit h2::before,#cardio h2::before,#progress h2::before,#history h2::before{
+  width:38px;height:38px;flex:0 0 38px;display:grid;place-items:center;border-radius:10px;
+  color:#211200;font-size:22px;line-height:1;background:linear-gradient(145deg,var(--sf-gold-1),var(--sf-gold-2) 28%,var(--sf-gold-3) 58%,var(--sf-gold-4) 78%,#6d3b0e);
+  box-shadow:inset 0 1px 0 rgba(255,255,220,.75),0 3px 7px rgba(0,0,0,.75);text-shadow:0 1px 0 rgba(255,255,255,.35)
+}
+#training h2::before{content:'🏋'}
+#hiit h2::before{content:'⚡'}
+#cardio h2::before{content:'❤'}
+#progress .card:nth-of-type(1) h2::before{content:'⚖'}
+#progress .card:nth-of-type(2) h2::before{content:'📏'}
+#progress .card:nth-of-type(3) h2::before{content:'📷'}
+#history .card:nth-of-type(1) h2::before{content:'🏆'}
+#history .card:nth-of-type(2) h2::before{content:'📈'}
+#history .card:nth-of-type(n+3) h2::before{content:'📊'}
+#training label,#hiit label,#cardio label,#progress label,#history label{
+  display:block!important;margin:0 0 3px 3px!important;color:#d8b65a!important;font-size:13px!important;font-weight:700!important
+}
+#training input:not([type=hidden]):not([type=checkbox]),#training select,#training textarea,
+#hiit input:not([type=hidden]):not([type=checkbox]),#hiit select,#hiit textarea,
+#cardio input:not([type=hidden]):not([type=checkbox]),#cardio select,#cardio textarea,
+#progress input:not([type=hidden]):not([type=checkbox]):not([type=file]),#progress select,#progress textarea,
+#history input:not([type=hidden]):not([type=checkbox]),#history select,#history textarea{
+  box-sizing:border-box!important;width:100%!important;min-height:46px!important;height:46px!important;
+  padding:7px 11px!important;border:1px solid var(--sf-border)!important;border-radius:12px!important;
+  background:linear-gradient(145deg,rgba(11,14,17,.97),rgba(4,5,7,.95))!important;
+  color:#f5f5f5!important;font-size:16px!important;box-shadow:inset 0 0 0 1px rgba(255,206,83,.03)!important
+}
+#training textarea,#hiit textarea,#cardio textarea,#progress textarea,#history textarea{height:78px!important;min-height:78px!important;resize:vertical!important}
+#progress input[type=file]{width:100%!important;padding:9px!important;border:1px solid var(--sf-border)!important;border-radius:12px!important;background:#080a0d!important;color:#ddd!important}
+#training .grid2,#hiit .grid2,#cardio .grid2,#progress .grid2,#history .grid2{gap:8px!important}
+#training .series-grid,#hiit .series-grid{gap:8px!important}
+#training .series-card,#hiit .series-card,#training .last-session,#hiit .last-session,
+#cardio #cardioStats,#progress .canvas,#progress #measureCompare,#history .record-item,#history .history-summary,
+#history .intensity-card>div{
+  border:1px solid rgba(208,157,49,.38)!important;border-radius:13px!important;
+  background:linear-gradient(145deg,rgba(13,16,20,.92),rgba(5,6,8,.92))!important;
+  box-shadow:inset 0 0 0 1px rgba(255,206,83,.025)!important
+}
+#training .series-card,#hiit .series-card,#training .last-session{padding:9px!important}
+#training .series-card b,#hiit .series-card b,#training .last-session strong,#hiit .last-session strong{color:#f0c75d!important}
+#training .btn,#hiit .btn,#cardio .btn,#progress .btn,#history .btn,
+#training .exercise-card-button,#hiit .exercise-card-button{
+  min-height:40px!important;height:auto!important;padding:7px 13px!important;border-radius:11px!important;font-size:13px!important;font-weight:800!important;letter-spacing:.03em!important
+}
+#training .btn.gold,#hiit .btn.gold,#cardio .btn.gold,#progress .btn.gold,#history .btn.gold{
+  border:1px solid #ffe36a!important;color:#211600!important;
+  background:linear-gradient(135deg,#fff06a 0%,#ffd700 48%,#c99100 100%)!important;
+  box-shadow:inset 0 1px 0 rgba(255,255,220,.8),0 4px 12px rgba(201,145,0,.28)!important
+}
+#training .btn.dark,#hiit .btn.dark,#cardio .btn.dark,#progress .btn.dark,#history .btn.dark,
+#training .exercise-card-button,#hiit .exercise-card-button{
+  border:1px solid rgba(208,157,49,.45)!important;color:#e4c46e!important;background:linear-gradient(145deg,#12161b,#07090c)!important
+}
+#training .btn.danger,#hiit .btn.danger,#cardio .btn.danger,#progress .btn.danger,#history .btn.danger{
+  border:1px solid rgba(196,58,46,.72)!important;background:linear-gradient(145deg,#35100d,#160706)!important;color:#ffb0a8!important
+}
+#training .rowbtn,#hiit .rowbtn,#cardio .rowbtn,#progress .rowbtn,#history .rowbtn{gap:8px!important}
+#training .bar,#hiit .bar,#cardio .bar,#progress .bar,#history .bar{height:8px!important;border-radius:999px!important;background:#151515!important;border:1px solid rgba(208,157,49,.35)!important;overflow:hidden!important}
+#training .bar i,#hiit .bar i,#cardio .bar i,#progress .bar i,#history .bar i{background:linear-gradient(90deg,#8b5317,#ffd44f,#fff2a8)!important}
+#training table,#hiit table,#cardio table,#progress table,#history table{width:100%!important;border-collapse:separate!important;border-spacing:0!important;overflow:hidden!important;border:1px solid var(--sf-border)!important;border-radius:13px!important;background:#07090b!important}
+#training th,#hiit th,#cardio th,#progress th,#history th{padding:9px!important;color:#f1c75e!important;background:#11151a!important;border-bottom:1px solid rgba(208,157,49,.42)!important}
+#training td,#hiit td,#cardio td,#progress td,#history td{padding:9px!important;color:#e7e7e7!important;border-bottom:1px solid rgba(208,157,49,.18)!important}
+#training tr:last-child td,#hiit tr:last-child td,#cardio tr:last-child td,#progress tr:last-child td,#history tr:last-child td{border-bottom:0!important}
+#history .record-hall h2,#history .intensity-card h2{font-size:clamp(20px,4.5vw,27px)!important}
+@media(max-width:560px){
+  #training.page>.card,#hiit.page>.card,#cardio.page>.card,#progress.page>.card,#history.page>.card{width:94%!important;padding:10px!important}
+  #training input:not([type=hidden]):not([type=checkbox]),#training select,#hiit input:not([type=hidden]):not([type=checkbox]),#hiit select,#cardio input:not([type=hidden]):not([type=checkbox]),#cardio select,#progress input:not([type=hidden]):not([type=checkbox]):not([type=file]),#progress select,#history input:not([type=hidden]):not([type=checkbox]),#history select{min-height:44px!important;height:44px!important;font-size:15.5px!important}
+  #training h2::before,#hiit h2::before,#cardio h2::before,#progress h2::before,#history h2::before{width:34px;height:34px;flex-basis:34px;font-size:19px}
+}
+
+
+/* source: remaining-menus-screen-fix-v838 */
+
+/* V8.38 — corrige Musculação, HIIT, Cardio, Evolução, Histórico e Perfil.
+   Mantém conteúdo e funções; remove fundos indevidos e ocupa o ecrã do telemóvel. */
+#training.page,#hiit.page,#cardio.page,#progress.page,#history.page,#profile.page{
+  position:relative!important;
+  box-sizing:border-box!important;
+  width:100%!important;
+  max-width:none!important;
+  min-height:calc(100dvh - 150px)!important;
+  margin:0!important;
+  padding:14px 0 52px!important;
+  background:#030303!important;
+  background-image:linear-gradient(180deg,#050505 0%,#020202 100%)!important;
+  overflow-x:hidden!important;
+}
+#training.page::before,#training.page::after,
+#hiit.page::before,#hiit.page::after,
+#cardio.page::before,#cardio.page::after,
+#progress.page::before,#progress.page::after,
+#history.page::before,#history.page::after,
+#profile.page::before,#profile.page::after{
+  content:none!important;
+  display:none!important;
+  background:none!important;
+  background-image:none!important;
+}
+#training.page.on,#hiit.page.on,#cardio.page.on,#progress.page.on,#history.page.on,#profile.page.on{display:block!important;}
+
+/* Retira os ícones emoji acrescentados aos títulos dos menus. */
+#training h2::before,#hiit h2::before,#cardio h2::before,#progress h2::before,#history h2::before{
+  content:none!important;
+  display:none!important;
+}
+
+/* Painéis exteriores sem moldura flutuante: ocupam toda a largura útil. */
+#training.page>.card,#hiit.page>.card,#cardio.page>.card,#progress.page>.card,#history.page>.card,
+#profile.page>.profile-premium-v825{
+  box-sizing:border-box!important;
+  width:100%!important;
+  max-width:none!important;
+  margin:0!important;
+  padding-left:12px!important;
+  padding-right:12px!important;
+  border-left:0!important;
+  border-right:0!important;
+  border-radius:0!important;
+  background:linear-gradient(180deg,rgba(5,5,5,.99),rgba(1,1,1,.99))!important;
+  background-image:none!important;
+  box-shadow:none!important;
+}
+#training.page>.card+ .card,#hiit.page>.card+ .card,#cardio.page>.card+ .card,
+#progress.page>.card+ .card,#history.page>.card+ .card{
+  margin-top:10px!important;
+  border-top:1px solid rgba(208,157,49,.42)!important;
+}
+
+@media(max-width:560px){
+  .app{width:100%!important;max-width:none!important;padding-left:0!important;padding-right:0!important;}
+  #training.page,#hiit.page,#cardio.page,#progress.page,#history.page,#profile.page{
+    padding-top:max(12px,env(safe-area-inset-top))!important;
+  }
+  #training.page>.card,#hiit.page>.card,#cardio.page>.card,#progress.page>.card,#history.page>.card,
+  #profile.page>.profile-premium-v825{
+    width:100%!important;
+    padding-left:12px!important;
+    padding-right:12px!important;
+  }
+}
+
+
+/* source: v839-dalek-titulos-final */
+
+/* SPARTAN FORGE V8.39 — Dalek apenas nos títulos e ações principais */
+:root{
+  --v839-dalek:'Dalek Heavy','Dalek',Impact,'Arial Black',sans-serif;
+  --v839-text:Inter,system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;
+}
+
+/* Texto funcional mantém-se limpo e muito legível. */
+.app,
+.app p,.app label,.app small,.app li,.app td,.app th,
+.app input,.app select,.app textarea,
+.app .small,.app .item,.app .goal,.app .last-session,
+.app .performance-sub,.app .mini-stat span{
+  font-family:var(--v839-text)!important;
+}
+
+/* Identidade Dalek aplicada aos títulos dos menus e secções. */
+.app h1,.app h2,.app h3,.app h4,
+.app .v5-brand,
+.app .dash-panel-title,
+.app .performance-title,
+.app .calendar-title,
+.app .card-title,
+.app .section-title,
+.app .mission-title,
+.app .profile-title,
+.app .card>h2:first-child,
+.app .card>h3:first-child{
+  font-family:var(--v839-dalek)!important;
+  text-transform:uppercase;
+  letter-spacing:1.15px!important;
+}
+
+/* Nomes dos menus e botões principais com a mesma assinatura visual. */
+.app .nav button,
+.app .btn,
+.app .v5-outline,
+.app .quick-action,
+.app button[data-go],
+.app #saveDaily,
+.app #saveTraining,
+.app #saveHiit,
+.app #saveCardio,
+.app #saveProfile{
+  font-family:var(--v839-dalek)!important;
+  letter-spacing:.75px!important;
+}
+
+/* Números e dados continuam simples para leitura imediata. */
+.app .performance-number,.app .kpi b,.app .ring b,
+.app .day,.app .stat-value,.app .score-value,
+.app input[type='number']{
+  font-family:var(--v839-text)!important;
+  letter-spacing:0!important;
+}
+
+@media(max-width:720px){
+  .app h1{letter-spacing:1px!important}
+  .app h2,.app h3,.app h4{letter-spacing:.8px!important}
+}
+
+
+/* source: v840-icons-consistency-fix */
+
+/* SPARTAN FORGE V8.40 — somente correção do ícone Meta Final e consistência dos ícones. */
+
+/* Meta Final: mantém posição e alinhamento existentes; apenas impede o recorte do ícone. */
+.mission-weight-card .mission-final-badge{overflow:visible!important;}
+.mission-weight-card .mission-final-badge .sf-icon.icon-trophy{
+  overflow:visible!important;
+  flex:0 0 32px!important;
+  min-width:32px!important;
+  width:32px!important;
+  height:32px!important;
+  background-size:contain!important;
+  background-position:center!important;
+  transform:translateZ(0)!important;
+}
+
+/* Índice Spartan: os cartões/barras ficam exatamente com as dimensões atuais. */
+.v840-index-icons>div>span{display:flex!important;align-items:center!important;gap:7px!important;}
+.v840-mini-premium{
+  display:block!important;
+  width:25px!important;
+  height:25px!important;
+  min-width:25px!important;
+  object-fit:cover!important;
+  border-radius:6px!important;
+  box-shadow:0 2px 5px rgba(0,0,0,.72)!important;
+}
+.v840-metal-symbol{
+  display:inline-block!important;
+  width:23px!important;
+  height:23px!important;
+  min-width:23px!important;
+  border-radius:6px!important;
+  background:linear-gradient(135deg,#ffe196 0%,#c7832e 46%,#6d3514 100%)!important;
+  filter:drop-shadow(0 2px 3px rgba(0,0,0,.78)) drop-shadow(0 0 3px rgba(220,153,55,.32))!important;
+  -webkit-mask-repeat:no-repeat!important;mask-repeat:no-repeat!important;
+  -webkit-mask-position:center!important;mask-position:center!important;
+  -webkit-mask-size:78%!important;mask-size:78%!important;
+}
+.v840-icon-food{
+  -webkit-mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='M17 8c-1.5 0-2.8.7-3.7 1.8C12.4 8.7 11.1 8 9.6 8 5.8 8 3 11 3 14.7 3 19 6.2 22 9.9 22c1 0 1.6-.3 2.1-.6.5.3 1.1.6 2.1.6 3.7 0 6.9-3 6.9-7.3C21 11 19.5 8 17 8ZM13 7c.2-2.7 1.8-4.5 4.7-5-.1 2.9-1.8 4.8-4.7 5Z'/%3E%3C/svg%3E")!important;
+  mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='M17 8c-1.5 0-2.8.7-3.7 1.8C12.4 8.7 11.1 8 9.6 8 5.8 8 3 11 3 14.7 3 19 6.2 22 9.9 22c1 0 1.6-.3 2.1-.6.5.3 1.1.6 2.1.6 3.7 0 6.9-3 6.9-7.3C21 11 19.5 8 17 8ZM13 7c.2-2.7 1.8-4.5 4.7-5-.1 2.9-1.8 4.8-4.7 5Z'/%3E%3C/svg%3E")!important;
+}
+.v840-icon-measures{
+  -webkit-mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='M3 5h18v14H3V5Zm2 2v10h14V7h-2v4h-2V7h-2v2h-2V7H9v4H7V7H5Z'/%3E%3C/svg%3E")!important;
+  mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='M3 5h18v14H3V5Zm2 2v10h14V7h-2v4h-2V7h-2v2h-2V7H9v4H7V7H5Z'/%3E%3C/svg%3E")!important;
+}
+
+/* Diário: usa os mesmos símbolos metálicos de Água e Café do painel principal. */
+#daily .daily-main-icon.v840-daily-premium{
+  display:inline-block!important;
+  width:31px!important;
+  min-width:31px!important;
+  height:31px!important;
+  margin-right:9px!important;
+  border-radius:50%!important;
+  object-fit:cover!important;
+  filter:drop-shadow(0 2px 3px rgba(0,0,0,.82))!important;
+}
+
+/* Histórico: apenas substituição dos emojis; estrutura e espaçamentos do menu permanecem. */
+#history .record-hall h2,#history .record-hall h3,#history .intensity-card h2{display:flex!important;align-items:center!important;gap:8px!important;}
+.v840-record-row-icon,.v840-title-premium{
+  display:inline-block!important;
+  width:29px!important;
+  height:29px!important;
+  min-width:29px!important;
+  object-fit:cover!important;
+  border-radius:7px!important;
+  box-shadow:0 2px 5px rgba(0,0,0,.76)!important;
+}
+.v840-title-premium{width:32px!important;height:32px!important;min-width:32px!important;}
+.v840-record-icon{
+  display:inline-block!important;
+  width:30px!important;
+  height:30px!important;
+  min-width:30px!important;
+  background:linear-gradient(135deg,#ffe196 0%,#c7832e 46%,#6d3514 100%)!important;
+  filter:drop-shadow(0 2px 3px rgba(0,0,0,.82)) drop-shadow(0 0 4px rgba(222,151,47,.3))!important;
+  -webkit-mask-repeat:no-repeat!important;mask-repeat:no-repeat!important;
+  -webkit-mask-position:center!important;mask-position:center!important;
+  -webkit-mask-size:contain!important;mask-size:contain!important;
+}
+.v840-record-spartan{
+  -webkit-mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='M7 3h10v3h3v2c0 3-2 5-5 5h-1v3h3v2H7v-2h3v-3H9C6 13 4 11 4 8V6h3V3Zm0 5H6c0 1.7.8 2.7 2.3 3.1C7.5 10.1 7 9.1 7 8Zm10 0c0 1.1-.5 2.1-1.3 3.1C17.2 10.7 18 9.7 18 8h-1Z'/%3E%3C/svg%3E")!important;
+  mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='M7 3h10v3h3v2c0 3-2 5-5 5h-1v3h3v2H7v-2h3v-3H9C6 13 4 11 4 8V6h3V3Zm0 5H6c0 1.7.8 2.7 2.3 3.1C7.5 10.1 7 9.1 7 8Zm10 0c0 1.1-.5 2.1-1.3 3.1C17.2 10.7 18 9.7 18 8h-1Z'/%3E%3C/svg%3E")!important;
+}
+.v840-record-general{
+  -webkit-mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='m3 3 8 8-2 2-2-2-2 2-2-2 2-2-2-2V3Zm18 0v4l-2 2 2 2-2 2-2-2-2 2-2-2 8-8h2ZM8 14l2 2-5 5H2v-3l6-4Zm8 0 6 4v3h-3l-5-5 2-2Z'/%3E%3C/svg%3E")!important;
+  mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='m3 3 8 8-2 2-2-2-2 2-2-2 2-2-2-2V3Zm18 0v4l-2 2 2 2-2 2-2-2-2 2-2-2 8-8h2ZM8 14l2 2-5 5H2v-3l6-4Zm8 0 6 4v3h-3l-5-5 2-2Z'/%3E%3C/svg%3E")!important;
+}
+
+
+/* source: v842-definitive-fix */
+
+/* SPARTAN FORGE V8.42 — correção definitiva, sem dependência de pastas de ícones. */
+:root{--v842-dalek:'Dalek','Dalek Heavy',Impact,'Arial Black',sans-serif;}
+
+/* Dalek em TODOS os títulos visíveis e em TODAS as barras/botões Guardar. */
+.app h1,.app h2,.app h3,.app h4,
+.app .v5-brand,.app .dash-panel-title,.app .performance-title,.app .calendar-title,
+.app .card-title,.app .section-title,.app .mission-title,.app .profile-title,
+.app .nav button,.app button.btn,.app .btn,.app .quick-action,.app button[data-go],
+.app #saveDaily,.app #saveTraining,.app #saveHiit,.app #saveCardio,
+.app #saveWeight,.app #saveMeasure,.app #savePhoto,.app #saveProfile,
+.app .v842-dalek-action,
+.v842-dalek-action{
+  font-family:var(--v842-dalek)!important;
+  font-weight:400!important;
+  font-style:normal!important;
+  letter-spacing:1.15px!important;
+  text-transform:uppercase!important;
+}
+
+/* Mantém números, campos e texto corrido legíveis. */
+.app input,.app select,.app textarea,.app p,.app label,.app small,
+.app .small,.app .performance-number,.app .kpi b,.app .ring b,
+.app .stat-value,.app .score-value,.app .day{
+  font-family:Inter,system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif!important;
+}
+
+/* Ícones pequenos: sempre visíveis, sem aumentar as barras. */
+.v840-index-icons>div>span{display:flex!important;align-items:center!important;gap:7px!important;}
+.v840-mini-premium,.v840-record-row-icon,.v840-record-header-icon,
+#daily .daily-main-icon.v840-daily-premium,.v841-meta-final-icon{
+  display:inline-block!important;
+  opacity:1!important;
+  visibility:visible!important;
+  object-fit:contain!important;
+  flex:none!important;
+  background:transparent!important;
+}
+.v840-mini-premium{width:25px!important;height:25px!important;min-width:25px!important;border-radius:6px!important;}
+#daily .daily-main-icon.v840-daily-premium{width:31px!important;height:31px!important;min-width:31px!important;border-radius:50%!important;}
+.v840-record-row-icon{width:29px!important;height:29px!important;min-width:29px!important;border-radius:7px!important;}
+.v840-record-header-icon{width:32px!important;height:32px!important;min-width:32px!important;border-radius:7px!important;}
+
+/* Meta Final: elimina o corte e o símbolo de imagem não carregada. */
+.mission-weight-card,.mission-weight-card *{overflow:visible;}
+.mission-weight-card .mission-final-badge{overflow:visible!important;display:flex!important;align-items:center!important;}
+.mission-weight-card .mission-final-badge .v841-meta-final-icon{
+ width:28px!important;height:28px!important;min-width:28px!important;max-width:28px!important;
+ margin:0 6px 0 0!important;border-radius:0!important;overflow:visible!important;
+}
+#history .record-hall h2,#history .record-hall h3{display:flex!important;align-items:center!important;gap:8px!important;}
+@media(max-width:420px){
+ .mission-weight-card .mission-final-badge .v841-meta-final-icon{width:25px!important;height:25px!important;min-width:25px!important;max-width:25px!important;}
+}
+
+
+/* V8.43 — garante Dalek nas últimas barras dos menus finais. */
+.app #saveMeasure,
+.app #savePhoto,
+.app #saveProfile,
+.app #exportBtn,
+.app #clearBtn,
+.app .rowbtn > .btn{
+  font-family:var(--v842-dalek)!important;
+  font-weight:400!important;
+  font-style:normal!important;
+  letter-spacing:1.15px!important;
+  text-transform:uppercase!important;
+}
+
+
+/* source: inline-style-23 */
+
+
+/* V15.00 — Evolução: alinhamento amplo, transparência e botões Iron Man */
+#progress{
+  background:#000 !important;
+  padding-left:4px !important;
+  padding-right:4px !important;
+  box-sizing:border-box !important;
+}
+#progress::before,
+#progress::after{
+  content:none !important;
+  display:none !important;
+  background:none !important;
+}
+#progress > .card{
+  width:calc(100% - 8px) !important;
+  max-width:none !important;
+  margin:6px auto !important;
+  padding:12px !important;
+  box-sizing:border-box !important;
+  background:rgba(0,0,0,.08) !important;
+  border:1.5px solid #c99518 !important;
+  border-radius:14px !important;
+  box-shadow:0 0 0 1px rgba(255,215,70,.10), inset 0 0 18px rgba(0,0,0,.32) !important;
+}
+#progress .grid2{
+  grid-template-columns:1fr !important;
+  width:100% !important;
+  gap:7px !important;
+}
+#progress input,
+#progress select,
+#progress textarea,
+#progress input[type="file"]{
+  width:100% !important;
+  box-sizing:border-box !important;
+  background:transparent !important;
+  background-color:transparent !important;
+  border:1.5px solid #b98312 !important;
+  border-radius:12px !important;
+  color:#f4f4f4 !important;
+  box-shadow:inset 0 0 12px rgba(0,0,0,.26) !important;
+}
+#progress input:-webkit-autofill,
+#progress input:-webkit-autofill:hover,
+#progress input:-webkit-autofill:focus{
+  -webkit-text-fill-color:#f4f4f4 !important;
+  -webkit-box-shadow:0 0 0 1000px transparent inset !important;
+  transition:background-color 9999s ease-out 0s !important;
+}
+#progress .canvas{
+  width:100% !important;
+  box-sizing:border-box !important;
+  background:transparent !important;
+  border:1.5px solid #b98312 !important;
+  border-radius:12px !important;
+}
+#progress #saveWeight,
+#progress #saveMeasure,
+#progress #savePhoto{
+  background:linear-gradient(135deg,#760008 0%,#b40d18 48%,#6c0007 100%) !important;
+  color:#f2bf35 !important;
+  border:1.5px solid #d5a52a !important;
+  border-radius:11px !important;
+  box-shadow:inset 0 1px 0 rgba(255,225,125,.35),0 0 10px rgba(189,22,26,.28) !important;
+  text-shadow:0 1px 1px #300 !important;
+}
+#progress #saveWeight:hover,
+#progress #saveMeasure:hover,
+#progress #savePhoto:hover{
+  filter:brightness(1.08) !important;
+}
+#progress .rowbtn{
+  width:100% !important;
+  gap:8px !important;
+}
+#progress h2{
+  color:#e0ad3a !important;
+}
+
