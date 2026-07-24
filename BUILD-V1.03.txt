@@ -1,0 +1,2 @@
+SPARTAN FORGE V1.03
+Gerador Spartan reconstruído com o sistema visual do menu Perfil.
