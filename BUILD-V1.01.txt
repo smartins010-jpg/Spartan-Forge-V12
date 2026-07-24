@@ -1,0 +1,1 @@
+SPARTAN FORGE V1.01 — CSS e JavaScript incorporados no index.html para publicação segura no GitHub Pages.
