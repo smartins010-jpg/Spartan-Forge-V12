@@ -1,0 +1,3 @@
+SPARTAN FORGE V1.02
+Novo layout visual do menu Gerador Spartan criado a partir da referência final aprovada.
+Esta versão foca o layout; a lógica completa será ligada por fases.
