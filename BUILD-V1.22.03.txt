@@ -1,0 +1,2 @@
+SPARTAN FORGE V1.22.03
+Correção: removidos os caracteres literais n/n/ visíveis junto ao título, sem outras alterações visuais ou funcionais.
