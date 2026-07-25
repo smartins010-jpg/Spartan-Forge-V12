@@ -1,0 +1,2 @@
+SPARTAN FORGE V1.11
+Gerador Spartan: layout visual conforme referência, caixas Iron Man e tabela de treino fluida sem scroll interno.

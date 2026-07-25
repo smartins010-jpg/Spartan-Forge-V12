@@ -1,0 +1,1 @@
+SPARTAN FORGE V1.09 — O resultado do Gerador Spartan ocupa a própria tabela, sem scroll interno; a tabela cresce verticalmente até mostrar todo o treino.

@@ -1,0 +1,1 @@
+SPARTAN FORGE V1.10 — Gerador com tabela fluida: cresce verticalmente com todo o treino; scroll apenas no ecrã.
