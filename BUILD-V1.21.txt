@@ -1,0 +1,10 @@
+SPARTAN FORGE V1.21
+
+Lógica do Gerador Spartan recuperada e confirmada a partir da V15.09:
+- Perder Peso: Baixa, Moderada, Elevada; Extrema desbloqueada a partir de outubro.
+- Percentagens originais preservadas.
+- Quantidades originais de exercícios e séries preservadas.
+- Hipertrofia: Elevado, Muito Elevado e Extremo.
+- Memória semanal e prioridade a grupos/exercícios ainda não usados preservadas.
+- Perder Peso continua sem máquina/cabos, conforme definição atual.
+- Nenhum aspeto visual ou outro menu alterado.

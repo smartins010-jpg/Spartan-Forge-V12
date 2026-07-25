@@ -1,0 +1,2 @@
+SPARTAN FORGE V1.20
+Correção exclusiva do layout do texto no Gerador Spartan: títulos, métricas e descrições passam automaticamente para linhas próprias sem sobreposição. Nenhuma lógica ou função alterada.

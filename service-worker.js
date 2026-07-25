@@ -1,4 +1,4 @@
-const CACHE = 'spartan-forge-v1-18-gerador-ironman-lock';
+const CACHE = 'spartan-forge-v1-22-adaptacao-perder-peso-30-dias';
 const APP_SHELL = [
   './.nojekyll',
   './BUILD-V1.01.txt',
@@ -7,6 +7,10 @@ const APP_SHELL = [
   './BUILD-V1.05.txt',
   './BUILD-V1.txt',
   './BUILD-V1.18.txt',
+  './BUILD-V1.19.txt',
+  './BUILD-V1.20.txt',
+  './BUILD-V1.21.txt',
+  './BUILD-V1.22.txt',
   './audio/complete.mp3',
   './audio/go-impact.mp3',
   './audio/go.mp3',

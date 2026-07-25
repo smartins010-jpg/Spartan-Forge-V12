@@ -1,0 +1,4 @@
+V1.19
+- Musculação, HIIT, Cardio, Diário e Evolução preparados para receber fundos individuais.
+- Tabelas, caixas manuais/automáticas e blocos internos transparentes, mantendo apenas letras e contornos.
+- Sem qualquer alteração ao Menu Principal, Perfil, Histórico, Gerador Spartan, funções, ícones ou disposição.

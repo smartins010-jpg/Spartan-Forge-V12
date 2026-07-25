@@ -1,0 +1,9 @@
+SPARTAN FORGE V1.22
+
+Atualização isolada do Gerador Spartan — programa Perder Peso:
+- O primeiro treino inicia automaticamente uma fase de adaptação de 30 dias.
+- Durante os primeiros 30 dias, todos os treinos de Perder Peso são de nível Baixo.
+- Durante a adaptação não são aplicadas as percentagens dos outros níveis.
+- A partir do 31.º dia, as percentagens normais voltam a ser aplicadas automaticamente.
+- A data inicial fica guardada no dispositivo, mesmo que o treino seja apagado ou a aplicação seja reiniciada.
+- Nenhum aspeto visual, outro programa, menu ou funcionalidade foi alterado.
