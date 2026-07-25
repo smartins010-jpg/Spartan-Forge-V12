@@ -1,0 +1,2 @@
+SPARTAN FORGE V1.04
+Gerador Spartan redesenhado conforme referência final e funções reativadas.
