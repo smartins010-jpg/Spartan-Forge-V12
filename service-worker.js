@@ -1,4 +1,4 @@
-const CACHE = 'spartan-forge-v1-05-gerador-reference';
+const CACHE = 'spartan-forge-v1-18-gerador-ironman-lock';
 const APP_SHELL = [
   './.nojekyll',
   './BUILD-V1.01.txt',
@@ -6,6 +6,7 @@ const APP_SHELL = [
   './BUILD-V1.03.txt',
   './BUILD-V1.05.txt',
   './BUILD-V1.txt',
+  './BUILD-V1.18.txt',
   './audio/complete.mp3',
   './audio/go-impact.mp3',
   './audio/go.mp3',
