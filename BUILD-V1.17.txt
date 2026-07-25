@@ -1,0 +1,2 @@
+SPARTAN FORGE V1.17
+Gerador Spartan: tipografia e paleta visual alinhadas com o menu de exercícios; nomes dourado metálico Iron Man, descrições branco relâmpago, caixas e botões compactos. Sem alterações de lógica ou funções.
