@@ -1,4 +1,4 @@
-const CACHE = 'spartan-forge-v1-22-adaptacao-perder-peso-30-dias';
+const CACHE = 'spartan-forge-v1-22-01-adaptacao-hipertrofia-30-dias';
 const APP_SHELL = [
   './.nojekyll',
   './BUILD-V1.01.txt',
@@ -11,6 +11,7 @@ const APP_SHELL = [
   './BUILD-V1.20.txt',
   './BUILD-V1.21.txt',
   './BUILD-V1.22.txt',
+  './BUILD-V1.22.01.txt',
   './audio/complete.mp3',
   './audio/go-impact.mp3',
   './audio/go.mp3',

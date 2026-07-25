@@ -1,0 +1,10 @@
+SPARTAN FORGE V1.22.01
+
+Atualização isolada do Gerador Spartan — programa Hipertrofia:
+- O primeiro treino de Hipertrofia inicia automaticamente uma fase de adaptação de 30 dias.
+- Durante os primeiros 30 dias, todos os treinos de Hipertrofia são de nível Elevado.
+- Durante a adaptação, Muito Elevado e Extremo ficam bloqueados.
+- A partir do 31.º dia, voltam a aplicar-se as percentagens normais: Elevado 40%, Muito Elevado 40% e Extremo 20%.
+- Antes de 1 de outubro, o nível Extremo permanece bloqueado; nesse período, após o 30.º dia, Elevado e Muito Elevado ficam com 50% cada.
+- A data inicial fica guardada no dispositivo, mesmo que o treino seja apagado ou a aplicação seja reiniciada.
+- Nenhum aspeto visual, menu ou outra funcionalidade foi alterado.
