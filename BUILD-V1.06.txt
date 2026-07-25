@@ -1,0 +1,6 @@
+SPARTAN FORGE V1.06
+- Menu Gerador Spartan com vermelho e dourado metálicos Iron Man.
+- Brilho reforçado igual ao botão Gerador Spartan.
+- Gerador restaurado à lógica original: perder peso e hipertrofia, memória semanal, 5 exercícios de musculação, HIIT por séries e nível Extrema apenas a partir de outubro.
+- Spinning final reposto para 20 minutos.
+- Deezer tenta abrir apenas a aplicação.
