@@ -1,0 +1,1 @@
+V1.16 — Corrigido o alinhamento dos minutos do Spinning inicial/final dentro das caixas e removido qualquer efeito de sublinhado da tipografia dourada dos exercícios. Restantes funções e estrutura mantidas.
