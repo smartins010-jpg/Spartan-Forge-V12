@@ -1,0 +1,2 @@
+SPARTAN FORGE V1.14
+Apenas o design de tabelas, caixas e botões do menu Perfil foi aplicado aos menus Diário, Musculação, HIIT e Cardio. Fundos, ícones, disposição, textos, lógica e funções mantidos.

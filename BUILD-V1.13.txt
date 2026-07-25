@@ -1,0 +1,1 @@
+V1.13 — Botões de música abrem exclusivamente a aplicação Deezer na playlist definida, sem fallback web e sem aviso interno de saída.
