@@ -1,0 +1,2 @@
+SPARTAN FORGE V1.22.04
+GPS removido. Cardio mantém BTT, caminhada, corrida e spinning com leitura de imagem do Strava ou registo manual.
