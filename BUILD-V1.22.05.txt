@@ -1,0 +1,5 @@
+SPARTAN FORGE V1.22.05
+- HIIT conta 1 sessão por dia
+- Botão Gerar treino HIIT no módulo HIIT
+- Mesma adaptação de 30 dias e percentagens do Gerador Spartan
+- Biblioteca HIIT sincronizada + Prancha com toque no ombro
