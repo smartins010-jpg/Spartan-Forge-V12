@@ -1,0 +1,2 @@
+SPARTAN FORGE V1.22.07
+Motor de localização removido integralmente. O Cardio aceita apenas leitura da imagem do Strava ou registo manual. Índice Spartan mantém HIIT e musculação contabilizados por dias distintos.

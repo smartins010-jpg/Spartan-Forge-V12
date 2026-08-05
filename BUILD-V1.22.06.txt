@@ -1,0 +1,2 @@
+SPARTAN FORGE V1.22.06
+Índice Spartan corrigido: musculação e HIIT contam dias distintos, não exercícios. Mantidos o Gerador Spartan, o botão para iniciar HIIT, a leitura do Strava e a versão sem GPS.
