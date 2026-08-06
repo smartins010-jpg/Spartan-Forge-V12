@@ -1,0 +1,12 @@
+SPARTAN FORGE V1.22.08
+
+- Gerador Spartan com escolha do local do treino:
+  - Casa: peso corporal, halteres, barra e kettlebell; sem máquinas/cabos.
+  - Sala do condomínio: todos os equipamentos, incluindo máquina multifunções/cabos.
+- A escolha do local fica guardada no dispositivo.
+- Gestão muscular semanal reforçada:
+  - grupos já trabalhados ficam excluídos enquanto existirem outros grupos disponíveis;
+  - Perder Peso escolhe primeiro três grupos ainda não trabalhados;
+  - Hipertrofia privilegia combinações totalmente novas e só repete quando não há alternativa.
+- Exercícios já usados na semana continuam a ser despriorizados.
+- GPS mantém-se removido; cardio externo continua dependente do Strava/registo manual.
