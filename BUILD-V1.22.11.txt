@@ -1,0 +1,4 @@
+SPARTAN FORGE V1.22.11
+- HIIT passa a respeitar os grupos musculares usados na musculação do próprio treino.
+- Evita exercícios com sobreposição muscular; se necessário, completa com exercícios já existentes na Spartan Forge com a menor sobreposição possível.
+- Mantém rotação muscular semanal, Cardio/Strava e Recorde Spartan da V1.22.10.

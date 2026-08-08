@@ -1,4 +1,4 @@
-const CACHE = 'spartan-forge-v1-22-07-sem-localizacao-strava';
+const CACHE = 'spartan-forge-v1-22-11-hiit-respeita-musculacao';
 const APP_SHELL = [
   './.nojekyll',
   './BUILD-V1.01.txt',
@@ -16,6 +16,8 @@ const APP_SHELL = [
   './BUILD-V1.22.04.txt',
   './BUILD-V1.22.05.txt',
   './BUILD-V1.22.07.txt',
+  './BUILD-V1.22.08.txt',
+  './BUILD-V1.22.09.txt',
   './audio/complete.mp3',
   './audio/go-impact.mp3',
   './audio/go.mp3',

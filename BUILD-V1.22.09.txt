@@ -1,0 +1,10 @@
+SPARTAN FORGE V1.22.09
+
+- Gestão muscular semanal refeita por sessão/grupo corporal, em vez de depender apenas dos exercícios individuais.
+- Rotação semanal fixa e previsível: Pernas → Peito → Costas → Braços → Ombros + Core.
+- O foco seguinte só avança quando o treino é guardado como concluído.
+- O registo interno é persistente durante a semana e reinicia automaticamente à segunda-feira.
+- Ao instalar a atualização a meio da semana, a app lê o histórico de musculação já existente e reconstrói a rotação para não repetir o último membro treinado.
+- Os exercícios continuam a ser variados dentro do foco muscular e os já usados na semana são despriorizados.
+- HIIT mantém a lógica separada por dias/exercícios.
+- GPS continua removido; cardio externo permanece via Strava/registo manual.
